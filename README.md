@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Guilherme, tenho 18 anos, sou apaixonado por tecnologia e sua forma de mudar o mundo, atualmente estou cursando Análise e desenvolvimento de sistemas na Unicesumar.
+Me chamo Guilherme, tenho 18 anos e sou apaixonado pela tecnologia e sua forma de mudar o mundo, atualmente estou cursando Análise e desenvolvimento de sistemas na Unicesumar.
 
 <p align="left">
     </a> 
