@@ -1,11 +1,13 @@
-👨🏽‍💻  Guilherme Mendes
+👨🏽‍💻 Guilherme Mendes
 
-**`Desenvolvedor FrontEnd`**
+**Desenvolvedor Frontend**
 
-Me chamo Guilherme, tenho 18 anos e sou apaixonado pela tecnologia e sua forma de mudar o mundo, atualmente estou cursando Análise e desenvolvimento de sistemas na Unicesumar.
+Sou desenvolvedor frontend focado na criação de **interfaces modernas, escaláveis e centradas no usuário**.  
+Atuo no desenvolvimento de aplicações web, priorizando **qualidade de código**, **organização**, **performance** e **experiência de uso**.
+
+Tenho experiência com construção de **interfaces complexas**, consumo de **APIs**, criação de **componentes reutilizáveis**, **formulários avançados**, fluxos de autenticação e layouts totalmente responsivos.
 
 <p align="left">
-    </a> 
     <a href="https://github.com/gMendeszz?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -14,6 +16,19 @@ Me chamo Guilherme, tenho 18 anos e sou apaixonado pela tecnologia e sua forma d
         />
     </a>
 </p>
+
+---
+
+### 🚀 O que faço no dia a dia
+
+- Desenvolvimento de **interfaces web modernas**
+- Estruturação de **componentes reutilizáveis**
+- Implementação de **layouts responsivos e acessíveis**
+- Integração com **APIs REST**
+- Criação de **formulários com validações e regras de negócio**
+- Organização de código pensando em **manutenção e escalabilidade**
+- Versionamento e colaboração com **Git & GitHub**
+- Atenção a **UX, performance e boas práticas**
 
 ---
 
@@ -53,8 +68,24 @@ Me chamo Guilherme, tenho 18 anos e sou apaixonado pela tecnologia e sua forma d
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Next.js"
+    title="Next.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Vue.js"
+    title="Vue.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind CSS" 
+    title="Tailwind CSS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
@@ -67,15 +98,12 @@ Me chamo Guilherme, tenho 18 anos e sou apaixonado pela tecnologia e sua forma d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
 <br/>
 <br/>
 
+---
+
+### 🎯 Direcionamento
+
+Busco evoluir constantemente como desenvolvedor, contribuindo com soluções bem estruturadas, código limpo e foco em gerar valor real para o usuário final.
