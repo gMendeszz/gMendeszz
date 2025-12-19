@@ -7,19 +7,9 @@ Atuo no desenvolvimento de aplicações web, priorizando **qualidade de código*
 
 Tenho experiência com construção de **interfaces complexas**, consumo de **APIs**, criação de **componentes reutilizáveis**, **formulários avançados**, fluxos de autenticação e layouts totalmente responsivos.
 
-<p align="left">
-    <a href="https://github.com/gMendeszz?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gMendeszz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
-
 ---
 
-### 🚀 O que faço no dia a dia
+### O que faço no dia a dia
 
 - Desenvolvimento de **interfaces web modernas**
 - Estruturação de **componentes reutilizáveis**
@@ -32,7 +22,7 @@ Tenho experiência com construção de **interfaces complexas**, consumo de **AP
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -57,6 +47,14 @@ Tenho experiência com construção de **interfaces complexas**, consumo de **AP
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
@@ -104,6 +102,6 @@ Tenho experiência com construção de **interfaces complexas**, consumo de **AP
 
 ---
 
-### 🎯 Direcionamento
+### Direcionamento
 
 Busco evoluir constantemente como desenvolvedor, contribuindo com soluções bem estruturadas, código limpo e foco em gerar valor real para o usuário final.
