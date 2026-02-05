@@ -2,7 +2,7 @@
 
 **Desenvolvedor Frontend**
 
-Sou desenvolvedor frontend focado na criação de **interfaces modernas, escaláveis e centradas no usuário**.  
+Atuo como desenvolvedor frontend focado na criação de **interfaces modernas, escaláveis e centradas no usuário**.  
 Atuo no desenvolvimento de aplicações web, priorizando **qualidade de código**, **organização**, **performance** e **experiência de uso**.
 
 Tenho experiência com construção de **interfaces complexas**, consumo de **APIs**, criação de **componentes reutilizáveis**, **formulários avançados**, fluxos de autenticação e layouts totalmente responsivos.
