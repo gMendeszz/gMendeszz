@@ -1,39 +1,44 @@
 <h1 align="center">Guilherme Mendes</h1>
 
 <p align="center">
-  Frontend Developer - React • Next.js • TypeScript • Tailwind • React Native 
+  Android Developer - Kotlin • Jetpack Compose • React Native • TypeScript • Next.js
 </p>
 
 ---
 
 ## About
 
-I build modern, scalable and well-structured digital interfaces.
+I build modern, scalable and well-structured mobile and web applications.
 
-My background is focused on web applications using React and Next.js, and I am also working with mobile development using React Native.
+My main focus is Android development using Kotlin and Jetpack Compose, where I design applications with strong architecture, maintainability and performance.
 
-I approach frontend engineering with a product mindset prioritizing architecture, performance, maintainability and user experience across platforms.
+I also have a solid background in frontend development with React and Next.js, allowing me to build consistent and high-quality user experiences across platforms.
 
-I have experience building complex interfaces, integrating REST APIs, designing reusable component systems and implementing scalable frontend architecture for data-driven applications.
+I approach software development with a product mindset, prioritizing clean architecture, scalability, and user experience.
 
+I have experience building mobile and web applications, integrating REST APIs, implementing authentication flows, managing state and designing reusable component systems.
+
+---
 
 ## What I Work On
 
-- Development of modern web and mobile applications
-- Component-driven architecture
-- API integration
+- Development of Android applications using Kotlin and Jetpack Compose
+- Cross-platform mobile development with React Native
+- Development of modern web applications with React and Next.js
+- Component-driven architecture and modular structures
+- API integration and data handling
 - Authentication flows and business rules
-- Implementation of complex client-side interaction flows and validation systems
-- Clean code and scalable structures
+- Clean code and scalable architecture (MVVM)
 - Performance and user experience optimization
+- Application publishing (Google Play & App Store)
 
 ---
 
 ## Tech Stack
 
 <p align="left">
-  <img height="32" title="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img height="32" title="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height="32" title="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img height="32" title="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
   <img height="32" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img height="32" title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img height="32" title="React | React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -46,12 +51,14 @@ I have experience building complex interfaces, integrating REST APIs, designing 
 
 ## Experience
 
-I have been working for approximately 1 year as a Frontend Developer, contributing to the development and maintenance of modern web applications.
+I am currently working as a Mobile Developer, contributing to the development of web and mobile applications using React Native.
 
-During this period, I have also been involved in mobile development projects using React Native, applying the same principles of architecture, reusability and performance across platforms.
+I also develop Android applications using Kotlin and Jetpack Compose, applying MVVM architecture, clean code principles and scalable structures.
+
+My work includes API integration, authentication flows, reusable components, testing and deployment to production environments.
 
 ---
 
 ## Direction
 
-Growing as a frontend developer, building consistent and scalable experiences across web and mobile.
+Growing as an Android-focused developer, building scalable and high-quality mobile applications while leveraging my frontend background to create consistent cross-platform experiences.
